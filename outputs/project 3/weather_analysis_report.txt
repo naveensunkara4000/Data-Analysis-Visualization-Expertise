@@ -1,0 +1,17 @@
+WEATHER DATA ANALYSIS REPORT
+===========================
+
+Average Temperature: 26.86 °C
+Maximum Temperature: 32.00 °C
+Minimum Temperature: 22.00 °C
+Total Rainfall: 11.00 mm
+
+Daily Weather Data:
+      Date  Temperature  Rainfall
+2024-01-01           22         5
+2024-01-02           24         0
+2024-01-03           25         2
+2024-01-04           27         0
+2024-01-05           30         1
+2024-01-06           32         0
+2024-01-07           28         3

@@ -1,0 +1,13 @@
+SUPERMARKET SALES ANALYSIS REPORT
+================================
+
+Total Sales: ₹519,280.69
+
+Top Product Lines (by Quantity Sold):
+Product_Line
+Health & Beauty           1866
+Sports & Travel           1737
+Electronic Accessories    1691
+Home & Lifestyle          1654
+Food & Beverages          1618
+Fashion Accessories       1500

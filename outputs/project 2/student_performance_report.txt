@@ -1,0 +1,16 @@
+STUDENT PERFORMANCE ANALYSIS REPORT
+=================================
+
+Total Students: 7
+Pass Rate: 85.71%
+Attendance vs Score Correlation: 0.99
+
+Detailed Results:
+ StudentID    Name Subject  Score  Attendance Result
+         1   Alice   Maths     78          85   Pass
+         2     Bob   Maths     45          70   Pass
+         3 Charlie   Maths     90          95   Pass
+         4   David   Maths     35          60   Fail
+         5     Eva   Maths     88          92   Pass
+         6   Frank   Maths     55          75   Pass
+         7   Grace   Maths     67          80   Pass
